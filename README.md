@@ -64,7 +64,7 @@
 ###
 
 <div align="right">
-  <img height="182" src="https://github.com/KLPaul/KLPaul/blob/main/vergil.gif"  />
+  <img height="300" src="https://github.com/KLPaul/KLPaul/blob/main/vergil.gif"  />
 </div>
 
 
