@@ -4,7 +4,9 @@
 - 💻 UX/UI development and design<br>
 - 🎬 Video editing and digital content<br>
 - 🎮 Apex Legends & Devil May Cry<br>
-  🚀 Always learning and exploring new forms of expression. Connect with me, and let’s talk about creativity!</h3>
+  <br>
+  🚀 Always learning and exploring new forms of expression.<br>
+  Connect with me, and let’s talk about creativity!</h3>
 
 ###
 
