@@ -1,18 +1,57 @@
-<h3 align="left">🎨 Art Lover | 💉 Passionate about the World of Tattoos | 💻 Developer & UX/UI Designer<br><br>👋 Hello! I am a creativity enthusiast in all its forms. At 25 years old, I combine my passion for design, programming, and video editing to create visual and functional experiences.<br><br>✨ What defines me:<br><br>🎨 Art and aesthetics in every detail<br>💉 Exploring the world of tattoos<br>💻 UX/UI development and design<br>🎬 Video editing and digital content<br>🎮 Apex Legends & Devil May Cry<br>🚀 Always learning and exploring new forms of expression. Connect with me, and let’s talk about creativity!</h3>
+<h3 align="left">🎨 Art Lover | 💉 Passionate about the World of Tattoos | 💻 Developer & UX/UI Designer<br><br>
+👋 Hello! I am a creativity enthusiast in all its forms. At 25 years old, I combine my passion for design, programming, and video editing to create visual and functional experiences.<br><br>
+✨ What defines me:<br><br>
+🎨 Art and aesthetics in every detail<br>
+💉 Exploring the world of tattoos<br>
+💻 UX/UI development and design<br>
+🎬 Video editing and digital content<br>
+🎮 Apex Legends & Devil May Cry<br>
+🚀 Always learning and exploring new forms of expression. Connect with me, and let’s talk about creativity!
+</h3>
 
-###
+### 
 
 <!-- Redes sociales y GIF alineados -->
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
-  <!-- Redes sociales alineadas a la izquierda -->
+  <!-- Redes sociales alineadas a la izquierda en filas de tres -->
   <div align="left">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="slack logo"  />
+    <table>
+      <tr>
+        <td>
+          <a href="https://www.youtube.com/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" height="40" alt="YouTube" />
+          </a>
+        </td>
+        <td>
+          <a href="https://www.instagram.com/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram" />
+          </a>
+        </td>
+        <td>
+          <a href="https://www.twitch.tv/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitch/twitch-original.svg" height="40" alt="Twitch" />
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://discord.com/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" height="40" alt="Discord" />
+          </a>
+        </td>
+        <td>
+          <a href="mailto:example@gmail.com">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail" />
+          </a>
+        </td>
+        <td>
+          <a href="https://slack.com/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="Slack" />
+          </a>
+        </td>
+      </tr>
+    </table>
   </div>
 
   <!-- GIF alineado a la derecha -->
@@ -22,7 +61,7 @@
 
 </div>
 
-###
+### 
 
 <!-- Estadísticas -->
 <div align="center">
@@ -30,7 +69,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KLPaul&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### 
 
 <!-- Tecnologías utilizadas -->
 <div align="center">
