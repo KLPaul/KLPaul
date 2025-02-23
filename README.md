@@ -53,11 +53,9 @@
 ###
 
 <div align="center">
-  <img height="182" src="[https://tenor.com/u2YBOkpff4T.gif](https://github.com/KLPaul/KLPaul/blob/main/vergil.gif)"  />
+  <img height="182" src="https://github.com/KLPaul/KLPaul/blob/main/vergil.gif"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/KLPaul/KLPaul/output/snake.svg" alt="Snake animation" />
 
-###
