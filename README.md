@@ -1,15 +1,20 @@
-<h4 align="left">
+<h3 align="left">
   🎨 Art Lover | 💉 Passionate about the World of Tattoos | 💻 Developer & UX/UI Designer  
   <br><br>
   👋 Hello! I am a creativity enthusiast in all its forms. At 25 years old, I combine my passion for design, programming, and video editing to create visual and functional experiences.  
   <br><br>
   ✨ What defines me:  
   <br><br>
-  - 🎨 Art and aesthetics in every detail  
-  - 💉 Exploring the world of tattoos  
-  - 💻 UX/UI development and design  
-  - 🎬 Video editing and digital content  
-  - 🎮 Apex Legends & Devil May Cry  
+  - 🎨 Art and aesthetics in every detail 
+  <br><br>
+  - 💉 Exploring the world of tattoos
+  <br><br>
+  - 💻 UX/UI development and design
+  <br><br>
+  - 🎬 Video editing and digital content
+  <br><br>
+  - 🎮 Apex Legends & Devil May Cry
+  <br><br>
   - 🚀 Always learning and exploring new forms of expression.  
   <br><br>
   Connect with me, and let’s talk about creativity!
