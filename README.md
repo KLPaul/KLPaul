@@ -61,7 +61,7 @@
 
   <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <img height="300" src="https://github.com/KLPaul/KLPaul/blob/main/vergil.gif" />
-  </div>
+</div>
 
     
   </div>
