@@ -50,13 +50,15 @@
 <div align="center">
   <h3 style="color: #68809A;">⭐️ Repositorios Destacados</h3>
   <p align="center">
-    <a href="https://github.com/KLPaul/Ledian-Theme" style="text-decoration:none;">
-      <span style="background-color:#2E3440; color:#68809A; padding:8px 12px; border-radius:6px; margin:4px; display:inline-block;">Ledian-Theme</span>
+    <a href="https://github.com/KLPaul/Ledian-Theme">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Ledian-Theme&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2E3440" alt="Ledian-Theme" />
     </a>
-    <a href="https://github.com/KLPaul/KLPaul-PortafolioV2" style="text-decoration:none;">
-      <span style="background-color:#2E3440; color:#68809A; padding:8px 12px; border-radius:6px; margin:4px; display:inline-block;">KLPaul-PortafolioV2</span>
+    <a href="https://github.com/KLPaul/KLPaul-PortafolioV2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=KLPaul-PortafolioV2&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2E3440" alt="KLPaul-PortafolioV2" />
     </a>
-    
+    <a href="https://github.com/MichelleYunga/Bar_Angular">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=MichelleYunga&repo=Bar_Angular&theme=dark&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2E3440" alt="Bar_Angular" />
+    </a>
   </p>
 </div>
 
