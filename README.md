@@ -24,5 +24,26 @@
     <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/KLPaul?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
   </a>
 </div>
+<br/>
 
+<!-- GitHub Status -->
+<h3 align="center">🌱 GitHub Status</h3>
+<div align="center">
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8" />
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=joshuathadi&theme=nord&hide_border=false" alt="GitHub Streak Stats" />
+</div>
+
+<br/><br/>
+
+<!-- Languages & Tools -->
+<h3 align="center">📚 Languages & Tools I Have Placed My Hands On</h3>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
+  <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+</div>
+
+<br/>
 
