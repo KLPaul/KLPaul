@@ -51,25 +51,17 @@
   <h3 style="color: #68809A;">⭐️ Repositorios Destacados</h3>
   <p align="center">
     <a href="https://github.com/KLPaul/Ledian-Theme">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio1&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=2E3440" alt="Repositorio1" />
+      <img src="https://img.shields.io/badge/Ledian-Theme-2E3440?style=for-the-badge&logo=github&logoColor=68809A&labelColor=2E3440&color=68809A" alt="Ledian-Theme" />
     </a>
-    <a href="https://github.com/KLPaul/Repositorio2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio2&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=2E3440" alt="Repositorio2" />
+    <a href="https://github.com/KLPaul/KLPaul-PortafolioV2">
+      <img src="https://img.shields.io/badge/KLPaul-PortafolioV2-2E3440?style=for-the-badge&logo=github&logoColor=68809A&labelColor=2E3440&color=68809A" alt="KLPaul-PortafolioV2" />
     </a>
-    <a href="https://github.com/KLPaul/Repositorio3">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio3&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=2E3440" alt="Repositorio3" />
-    </a>
-    <a href="https://github.com/KLPaul/Repositorio4">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio4&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=2E3440" alt="Repositorio4" />
-    </a>
-    <a href="https://github.com/KLPaul/Repositorio5">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio5&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=2E3440" alt="Repositorio5" />
-    </a>
-    <a href="https://github.com/KLPaul/Repositorio6">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio6&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=2E3440" alt="Repositorio6" />
+    <a href="https://github.com/MichelleYunga/Bar_Angular">
+      <img src="https://img.shields.io/badge/Bar_Angular-2E3440?style=for-the-badge&logo=github&logoColor=68809A&labelColor=2E3440&color=68809A" alt="Bar_Angular" />
     </a>
   </p>
 </div>
+
 
 
 
