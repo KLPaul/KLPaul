@@ -50,15 +50,13 @@
 <div align="center">
   <h3 style="color: #68809A;">⭐️ Repositorios Destacados</h3>
   <p align="center">
-    <a href="https://github.com/KLPaul/Ledian-Theme">
-      <img src="https://img.shields.io/badge/Ledian-Theme-2E3440?style=for-the-badge&logo=github&logoColor=68809A&labelColor=2E3440&color=68809A" alt="Ledian-Theme" />
+    <a href="https://github.com/KLPaul/Ledian-Theme" style="text-decoration:none;">
+      <span style="background-color:#2E3440; color:#68809A; padding:8px 12px; border-radius:6px; margin:4px; display:inline-block;">Ledian-Theme</span>
     </a>
-    <a href="https://github.com/KLPaul/KLPaul-PortafolioV2">
-      <img src="https://img.shields.io/badge/KLPaul-PortafolioV2-2E3440?style=for-the-badge&logo=github&logoColor=68809A&labelColor=2E3440&color=68809A" alt="KLPaul-PortafolioV2" />
+    <a href="https://github.com/KLPaul/KLPaul-PortafolioV2" style="text-decoration:none;">
+      <span style="background-color:#2E3440; color:#68809A; padding:8px 12px; border-radius:6px; margin:4px; display:inline-block;">KLPaul-PortafolioV2</span>
     </a>
-    <a href="https://github.com/MichelleYunga/Bar_Angular">
-      <img src="https://img.shields.io/badge/Bar_Angular-2E3440?style=for-the-badge&logo=github&logoColor=68809A&labelColor=2E3440&color=68809A" alt="Bar_Angular" />
-    </a>
+    
   </p>
 </div>
 
