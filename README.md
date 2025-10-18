@@ -46,28 +46,31 @@
 </div>
 
 <br/>
+
 <div align="center">
   <h3 style="color: #68809A;">⭐️ Repositorios Destacados</h3>
   <p align="center">
     <a href="https://github.com/KLPaul/Repositorio1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio1&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=3F4A5A" alt="Repositorio1" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio1&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=2E3440" alt="Repositorio1" />
     </a>
     <a href="https://github.com/KLPaul/Repositorio2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio2&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=3F4A5A" alt="Repositorio2" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio2&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=2E3440" alt="Repositorio2" />
     </a>
     <a href="https://github.com/KLPaul/Repositorio3">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio3&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=3F4A5A" alt="Repositorio3" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio3&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=2E3440" alt="Repositorio3" />
     </a>
     <a href="https://github.com/KLPaul/Repositorio4">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio4&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=3F4A5A" alt="Repositorio4" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio4&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=2E3440" alt="Repositorio4" />
     </a>
     <a href="https://github.com/KLPaul/Repositorio5">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio5&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=3F4A5A" alt="Repositorio5" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio5&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=2E3440" alt="Repositorio5" />
     </a>
     <a href="https://github.com/KLPaul/Repositorio6">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio6&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=3F4A5A" alt="Repositorio6" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio6&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=2E3440" alt="Repositorio6" />
     </a>
   </p>
 </div>
+
+
 
 
