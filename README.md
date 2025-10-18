@@ -50,7 +50,7 @@
 <div align="center">
   <h3 style="color: #68809A;">⭐️ Repositorios Destacados</h3>
   <p align="center">
-    <a href="https://github.com/KLPaul/Repositorio1">
+    <a href="https://github.com/KLPaul/Ledian-Theme">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=KLPaul&repo=Repositorio1&theme=default&title_color=68809A&icon_color=68809A&text_color=68809A&bg_color=2E3440" alt="Repositorio1" />
     </a>
     <a href="https://github.com/KLPaul/Repositorio2">
